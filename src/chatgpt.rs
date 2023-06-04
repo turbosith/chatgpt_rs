@@ -1,5 +1,5 @@
 #![warn(missing_docs)]
-#![doc = include_str!("../README.md")]
+
 
 /// This module contains the ChatGPT client
 pub mod client;
